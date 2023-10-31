@@ -1,6 +1,6 @@
 # To-Do List
 
-#### Try it:  <https://youtu.be/epG2tqD7Cvw](https://to-do-list-j7ak.onrender.com/>
+#### Try it:  <https://to-do-list-j7ak.onrender.com/>
 #### Video Demo:  <https://youtu.be/epG2tqD7Cvw>
 #### Description: Hello everyone, my name is João, and I'm from Porto, Portugal. 
 This is my final project for CS50x. 
